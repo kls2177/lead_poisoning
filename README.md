@@ -30,7 +30,7 @@ http://mcdc.missouri.edu/cgi-bin/broker?_PROGRAM=websas.acsmcdcprofiles_extract_
 
 #### American Community Survey geographical shapefiles for NYC zipcodes and NY State counties:
 
-*Note: The zipcode shapefile is included in the data directory but the county shapefile was too large to upload to github.*
+*Note: The zipcode shapefile is included in the data directory but the county shapefile was too large to upload to github. This will need to be downloaded by the user to their local repo.*
 
 ftp://ftp2.census.gov/geo/tiger/TIGER2014/
 
