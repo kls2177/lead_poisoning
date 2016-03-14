@@ -26,6 +26,7 @@ American Community Survey 2014 tool for data extraction:
 http://mcdc.missouri.edu/cgi-bin/broker?_PROGRAM=websas.acsmcdcprofiles_extract_menu.sas&_SERVICE=appdev&st=36
 
 American Community Survey geographical shapefiles for NYC zipcodes and NY State counties:
+
 *Note: The zipcode shapefile is included in the data directory but the county shapefile was too large to upload to github.*
 
 ftp://ftp2.census.gov/geo/tiger/TIGER2014/
