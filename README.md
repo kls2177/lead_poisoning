@@ -9,6 +9,7 @@ http://kls2177.github.io/lead/
 ## The analysis was completed in two IPython Notebooks:
 
 NYC Lead Poinsoning.ipynb (this analysis was done first, so please look at this one first.)
+
 NY State County Lead Poisoning.ipynb
 
 ## The python package requirements are listed in the following file:
@@ -34,4 +35,5 @@ ftp://ftp2.census.gov/geo/tiger/TIGER2014/
 New York City Lead Poisoning Reports:
 
 http://www.nyc.gov/html/doh/downloads/pdf/lead/lead-2012report.pdf
+
 http://www.nyc.gov/html/doh/downloads/pdf/lead/lead-2009report.pdf
