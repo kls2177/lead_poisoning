@@ -8,7 +8,7 @@ http://kls2177.github.io/lead/
 
 ## The analysis was completed in two IPython Notebooks:
 
-NYC Lead Poinsoning.ipynb
+NYC Lead Poinsoning.ipynb (this analysis was done first, so please look at this one first.)
 NY State County Lead Poisoning.ipynb
 
 ## The python package requirements are listed in the following file:
