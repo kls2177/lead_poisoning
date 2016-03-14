@@ -6,7 +6,16 @@ A detailed summary of the analysis and data sources can be found in the followin
 
 http://kls2177.github.io/lead/
 
-The full list of the data sources I used is here:
+## The analysis was completed in two IPython Notebooks:
+
+NYC Lead Poinsoning.ipynb
+NY State County Lead Poisoning.ipynb
+
+## The python package requirements are listed in the following file:
+
+requirements.txt
+
+## The full list of the data sources I used is here:
 
 NY State BLL data:
 
