@@ -1,6 +1,8 @@
 # lead_poisoning
 
-Here is some preliminary analysis that I put together to examine and predict lead poisoning risk in children NYC and New York State.
+Lead poisoning in children from paint, pipes and contaminated soil remains a serious public health concern, despite decades-old bans on leaded paints and fuels. Recent events in Flint, Michigan have highlighted the devastating health effects that lead poisoning can have and how these effects are often stratified along socio-economic lines.
+
+Here, I explore the childhood lead poisoning statistics for New York City and New York State and develop a prediction model for lead poisoning risk, using coarsely-grained American Community Survey (2014) data. These prediction models shed some light on the neighbourhood and county demographics and economics that expose children to higher risk of lead poisoning.
 
 A summary of the analysis and data sources can be found in the following blog:
 
