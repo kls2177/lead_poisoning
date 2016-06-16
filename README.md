@@ -1,8 +1,8 @@
 # lead_poisoning
 
-This is code that I put together to examine lead poisoning in children NYC and New York State for a data challenge.
+Here is some preliminary analysis that I put together to examine and predict lead poisoning risk in children NYC and New York State.
 
-A detailed summary of the analysis and data sources can be found in the following blog:
+A summary of the analysis and data sources can be found in the following blog:
 
 http://kls2177.github.io/lead/
 
