@@ -38,6 +38,6 @@ ftp://ftp2.census.gov/geo/tiger/TIGER2014/
 
 #### New York City Lead Poisoning Reports:
 
-http://www.nyc.gov/html/doh/downloads/pdf/lead/lead-2012report.pdf
+https://www1.nyc.gov/assets/doh/downloads/pdf/lead/lead-2012report.pdf
 
-http://www.nyc.gov/html/doh/downloads/pdf/lead/lead-2009report.pdf
+https://www1.nyc.gov/assets/doh/downloads/pdf/lead/lead-2009report.pdf
